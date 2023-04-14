@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @schrodingers-cat78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-schrodingers-cat78/schrodingers-cat78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Android development and Data Analytics
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on open source projects and recognise my visions
+- 📫 How to reach me https://www.linkedin.com/in/sekhar-bharadwaj-2abb64251/\
