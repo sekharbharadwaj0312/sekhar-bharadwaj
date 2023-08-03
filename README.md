@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sekhar Bharadwaj
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Analytics, Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on open source projects and recognise my visions
 - 📫 How to reach me https://www.linkedin.com/in/sekhar-bharadwaj-2abb64251/\
